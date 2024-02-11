@@ -3,4 +3,10 @@ taghire 2
 line 3 ezafe shod az master
 line 4 ezafe shod
 line 5 ham
+line 6 ham 
+line 7 ham hamintor
+line 88 ke 
+khate 9
+khate 10
+khate 11
 
