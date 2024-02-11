@@ -1,3 +1,4 @@
 taghire 1
 taghire 2
+line 3 ezafe shod az master
 
